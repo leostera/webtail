@@ -1,0 +1,27 @@
+{
+  "name": "webtail",
+  "version": "0.0.0",
+  "description": "An example of piping a file over HTTP.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leostera/webtail.git"
+  },
+  "keywords": [
+    "webtail",
+    "tail",
+    "http",
+    "pipe",
+    "connect"
+  ],
+  "author": "Leandro Ostera",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "~2.7.10",
+    "tailnative": "~0.3.2",
+    "underscore": "~1.4.4"
+  }
+}
