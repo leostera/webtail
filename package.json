@@ -1,6 +1,6 @@
 {
   "name": "webtail",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An example of piping a file over HTTP.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "connect": "~2.7.10",
-    "tailnative": "~0.3.2",
     "underscore": "~1.4.4"
   }
 }
