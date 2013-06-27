@@ -4,7 +4,7 @@
   "description": "An example of piping a file over HTTP.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
